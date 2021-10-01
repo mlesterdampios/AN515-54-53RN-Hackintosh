@@ -2,7 +2,7 @@
 
 #### Supports MacOS 10.15.x ~ 11.x.x
 
-![Screen Shot 2021-04-12 at 10 12 52 PM](https://user-images.githubusercontent.com/57904667/114408781-5a001f80-9bdc-11eb-8406-87852d82b836.png)
+![Screen Shot 2021-04-12 at 10 12 52 PM](/images/244310456_402529344603054_5805710828714038332_n.jpg?raw=true)
 
 ## My System
 ### AN515-54-53RN //Tried and Tested
