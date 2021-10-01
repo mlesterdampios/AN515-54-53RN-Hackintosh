@@ -44,4 +44,4 @@
 ## Credits
 - **Special Thanks** to [Dicas do Mateus](https://www.youtube.com/channel/UCPCUdJ9cRior4FZ1TEz6qdA) for most of the tutorial.
 - **Special Thanks** to [olarila](https://www.olarila.com/) for everything.
-- Thanks to [OpenCore Bootloader](https://https://github.com/acidanthera/OpenCorePkg).
+- Thanks to [OpenCore Bootloader](https://github.com/acidanthera/OpenCorePkg).
